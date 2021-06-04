@@ -23,10 +23,6 @@ int pc=0,ps=n;
 	float pi = 4.0*pc/ps;
 	return pi;
 }
-
-
-
-
 int main(void) {
   float pi0;
   float pi1;
